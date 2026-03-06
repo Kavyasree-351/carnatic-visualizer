@@ -133,13 +133,9 @@ Found a music theory bug or want to add a new raga? Contributions welcome!
 
 ---
 
-## 📜 License
-
-MIT License — free to use, modify, and share.
-
----
-
 <div align="center">
 Made with 🎵 and Python by <a href="https://github.com/Kavyasree-351">Kavyasree</a>
 <br><i>"Where code meets classical music"</i>
 </div>
+
+> 🌱 This is a refactored version of [trials.music](https://github.com/Kavyasree-351/trials.music) — my original exploration notebook.
