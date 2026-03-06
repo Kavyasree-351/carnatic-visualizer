@@ -28,9 +28,9 @@ Currently features **Mayamalavagowla** (Melakarta #15) — the foundational raga
 
 
 
- # [Raga Scale]<img width="1785" height="1068" alt="raga_scale" src="https://github.com/user-attachments/assets/538a2153-0a11-41ac-8a03-bbc13c63d7b3"/>
- # [Tala Cycle]<img width="1035" height="1040" alt="tala_cycle" src="https://github.com/user-attachments/assets/f4892cfd-0d26-48cf-9c60-bc2e8f9f43b2"/>
- # [Frequencies]<img width="1484" height="732" alt="swara_frequencies" src="https://github.com/user-attachments/assets/596c6d6f-ffaf-4ddc-92ff-bc9bb77e2231"/>
+ # Raga Scale<img width="1785" height="1068" alt="raga_scale" src="https://github.com/user-attachments/assets/538a2153-0a11-41ac-8a03-bbc13c63d7b3"/>
+ # Tala Cycle<img width="1035" height="1040" alt="tala_cycle" src="https://github.com/user-attachments/assets/f4892cfd-0d26-48cf-9c60-bc2e8f9f43b2"/>
+ # Frequencies<img width="1484" height="732" alt="swara_frequencies" src="https://github.com/user-attachments/assets/596c6d6f-ffaf-4ddc-92ff-bc9bb77e2231"/>
  
 
 ---
