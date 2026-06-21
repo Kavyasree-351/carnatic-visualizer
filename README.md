@@ -130,17 +130,6 @@ wave = 0.6 * sin(2π·f·t)       # fundamental
 
 ---
 
-## 🤝 Contributing
-
-Found a music theory bug or want to add a new raga? Contributions welcome!
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/raga-shankarabharanam`)
-3. Commit your changes
-4. Open a Pull Request
-
----
-
 <div align="center">
 
 Made with 🎵 and Python by <a href="https://github.com/Kavyasree-351">Kavyasree</a>
